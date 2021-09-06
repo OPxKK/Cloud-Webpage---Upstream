@@ -1,0 +1,360 @@
+.custom-icon-cloud{
+    font-size: 35px;;
+    margin-right: 20px;;
+}
+
+
+.container-fluid{
+
+    font-size: 20px;;
+}
+
+.nav-brand{
+    font-weight: bold;
+    font-family: 'Montserrat';
+}
+.nav-item{
+padding: 10px;
+font-family: 'Montserrat';
+}
+
+.text-end{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.custom-cloud{
+    padding-top: 10%;
+    padding: 10%;
+    border-radius: 20%;
+    transition: all 0.4s ease-in;
+
+}
+
+.custom-content{
+    padding-top: 15%;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-weight: 300;
+}
+
+.heading-content{
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.custom-lead{
+    font-family: 'Montserrat';
+    font-weight: 200;
+    margin-top: 8%;
+    font-size: 20px;;
+}
+.sign-up{
+    font-weight: 400;
+    margin-top: 30px;;
+}
+
+.col{
+    padding: 10px;;
+}
+
+.card{
+    border-radius: 20px;;
+    padding: 3%;
+}
+
+.custom-img-upstream{
+    width: 300px;;
+    position: relative;
+    bottom: 20%;;
+}
+
+.list{
+    position: relative;
+    right: 20px;;
+    padding: 2px;;
+}
+
+.google{
+    width: 150px;;
+    position: relative;
+    left: 40px;;
+}
+
+.img-dropbox{
+    width: 75px;;
+    text-align: center;
+    position: relative;
+    left: 80px;;
+    top: 5px;;
+}
+
+
+.custom-upstream{
+    position: relative;
+    top: 20%;
+}
+
+
+.custom-img-devices{
+    max-width: fit-content;
+    position: relative;
+    top: 50px;;
+}
+
+.custom-device-content{
+    position: relative;
+    top: 100px;;
+    text-align: center;
+
+}
+
+.custom-heading{
+    font-family: 'Montserrat', sans-serif;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 30px;;
+
+}
+
+.custom-para{
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+}
+
+.custom-download{
+    font-family: 'Montserrat';
+    font-weight: bolder;
+    font-size: 25px;;
+
+}
+
+
+.custom-icon{
+    font-size: 20px;
+    margin-right: 5px;;
+}
+
+.custom-btn{
+    margin: 5% 3% 5% 0;
+    position: relative;
+    bottom: 20px;
+   
+}
+
+.bi{
+    position: relative;
+    right: 40px;;
+}
+
+#first-container{
+    font-family: 'Montserrat';
+}
+
+
+ #third-container{
+     padding: 5%;
+     background-color: #E8EAE6;
+
+
+     
+ } 
+
+ .list-pricing{
+     padding: 2px;;
+ }
+
+main{
+    font-family: 'Montserrat';
+}
+#custom-container{
+    background-color: #F3F0D7;
+    margin-right: 0px;
+  margin-left: 0px;;
+}
+#second-container{
+padding: 1%;
+background-color: #EDEDED;
+margin-right: 0px;
+  margin-left: 0px;;
+}
+
+.img-end{
+    max-width: 150%;
+    position: relative;
+    left: 100px;
+}
+
+.custom-end{
+font-family: 'Montserrat';
+text-align: center;
+}
+
+.custom-text{
+    font-family: 'Poppins';
+    font-weight: 500; 
+    position: relative;
+    top: 45%;  
+}
+
+.custom-h{
+    font-weight: bold;
+    font-size: 40px;;
+}
+
+.custom-p{
+    font-size: 20px;
+}
+
+#fourth-container{
+    padding: 1%;
+    background-color: #FFFFFF;
+
+}
+
+.main-head{
+    margin-bottom: 40px;;
+}
+#fifth-container{
+    padding:3%;
+    margin-top: 2%;
+    margin-right: 0px;
+  margin-left: 0px;;
+}
+
+
+.img-login{
+    position: relative;
+    left: 40px;;
+}
+
+.custom-subs{
+    position: relative;
+    left: 480px;
+    bottom: 150px;;
+}
+
+.custom-heading1{
+    font-family: 'Montserrat';
+    margin-top: 0;
+    position: relative;
+    bottom: 20px;
+    color: black;
+    font-weight: bold;
+}
+
+.btn-cust{
+margin-left: 45%;
+}
+
+.custom-icon-pro{
+    margin-right: 13px;;
+}
+
+#sixth-container{
+    font-family: 'Montserrat';
+    margin-right: 0px;
+  margin-left: 0px;
+
+}
+
+.custom-para-news{
+color: gray;
+
+}
+
+.custom-logos-soc{
+    font-size: 30px;
+    padding: 3px;
+}
+
+.custom-logos-soc:hover{
+    color: orange
+}
+
+.custom-sponsor{
+    font-family: 'Montserrat';
+    font-size: 40px;;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 5px;;
+}
+
+
+.heading-rely{
+    font-family: 'Montserrat';
+    text-align: center;
+    font-weight: bold;
+    position: relative;
+    top: 10px;
+    color: orangered;
+    font-size: 40px;;
+}
+
+.heading-pricing{
+
+    text-align: center;
+}
+
+#investment-container{
+background-color: #EDEDED;
+padding: 2%;
+margin-right: 0px;
+  margin-left: 0px;;
+}
+
+.dominoz{
+    max-width: 250x;
+    width: 100px;;
+}
+
+.text-dark{
+    font-weight: 400;
+    font-size: 30px;;
+}
+
+
+.centerdiv{
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.centerdiv a{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: #EDEDED;
+    text-align: center;
+    margin: 10px;
+    box-shadow: 1px 4px 2px 2px #C8C6C6;
+    line-height: 60px;;
+
+}
+
+.centerdiv a i{
+    font-size: 25px;
+    transition: all 0.3s linear;
+}
+
+a:hover i{
+    transform: scale(1.4);
+}
+
+.fa-linkedin-in{
+    color: #0F52BA;
+}
+
+.fa-twitter{
+    color: #0097e6;
+}
+
+.fa-youtube{
+    color: #FF2442;
+}
+
+.fa-envelope{
+    color: #e84393;
+}
+
