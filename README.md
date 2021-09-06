@@ -7,3 +7,8 @@ Upstream Cloud Webpage helps user to store data, files of any extension. The Web
 => Javascript animation on scroll (AOS)
 
 => CSS Fundamentals
+
+Reference:- 
+
+1.) (AOS) :- https://michalsnik.github.io/aos/ 
+2.) Bootstrap :- https://getbootstrap.com/
